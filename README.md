@@ -15,7 +15,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na **UNIT**. Sou apaixonada 
 *   **[ReviewLens](https://github.com/MayanenayaM/reviewlens-api)**
     *   *O que é:* API REST em Java e Spring Boot integrada ao Google Gemini para análise automatizada de sentimentos e tópicos em avaliações de delivery.
     *   *Diferenciais:* Arquitetura em camadas (MVC), tratamento de resiliência com reprocessamento assíncrono (`@Scheduled`), sanitização contra prompt injection e um dashboard interativo em JavaScript puro com alertas visuais de criticidade.
-*   **[-Em andamento- Buscador de Linguagem Natural para Delivery](https://github.com/MayanenayaM/naturalquery-delivery.git)**
+*   **[NaturalQuery Delivery](https://github.com/MayanenayaM/naturalquery-delivery.git)** (Em andamento)
     *   *O que é:* API em Java e Spring Boot que traduz frases livres, coloquiais e descritivas digitadas pelos usuários em parâmetros estruturados (filtros e restrições) para consultas dinâmicas no PostgreSQL.
     *   *Diferenciais:* Foco em inclusão e acessibilidade para usuários com menor letramento digital, engenharia de prompt rigorosa com domínio fechado (Enums), segurança contra SQL Injection via Prepared Statements e tratamento inteligente de falhas (fallback).
 
