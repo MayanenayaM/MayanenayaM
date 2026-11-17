@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Mayane Lins
 Estudante de ADS - Embarque Digital
 
 
