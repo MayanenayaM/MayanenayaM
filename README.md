@@ -1,7 +1,6 @@
 # Mayane Lins
 
 Estudante de Análise e Desenvolvimento de Sistemas na **UNIT**. Sou apaixonada por desenvolvimento de software, arquitetura backend e a intersecção entre engenharia e Inteligência Artificial. Atualmente, foco meus estudos na construção de APIs robustas com **Java/Spring Boot** e em soluções integradas com **IA Aplicada** para o ecossistema de tecnologia.
-### 💻 Tecnologias e Ferramentas
 
 ---
 
@@ -23,5 +22,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na **UNIT**. Sou apaixonada 
 ---
 
 ### 📊 Estatísticas do GitHub
-![](https://github-readme-stats.shion.dev/api?username=MayanenayaM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MayanenayaM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=MayanenayaM&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MayanenayaM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
